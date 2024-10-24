@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 📫 How to reach me: **[ferhadsultan@gmail.com](mailto:ferhadsultan@gmail.com)**
+- 📫 How to reach me **[ferhadsultan@gmail.com](mailto:ferhadsultan@gmail.com)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,7 +26,7 @@
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
+  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -72,33 +72,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
-</p>
-
-<h3 align="center">My Goals:</h3>
-<p align="center">
-  - Continuously improve my skills in modern frontend frameworks like React and Vue.js. <br>
-  - Contribute to open-source projects to give back to the community. <br>
-  - Stay updated with the latest trends in web development and design.
-</p>
-
-<h3 align="center">Projects:</h3>
-<p align="center">
-  - **[Project Name 1](https://github.com/yourusername/project1)**: A brief description of what this project does. <br>
-  - **[Project Name 2](https://github.com/yourusername/project2)**: A brief description of what this project does. <br>
-  - **[Project Name 3](https://github.com/yourusername/project3)**: A brief description of what this project does.
-</p>
-
-<h3 align="center">Education:</h3>
-<p align="center">
-  - **Bachelor of Science in Computer Science** <br>
-    University Name, Year of Graduation <br>
-</p>
-
-<h3 align="center">Interests:</h3>
-<p align="center">
-  - Web Accessibility <br>
-  - User Experience (UX) Design <br>
-  - Performance Optimization <br>
 </p>
 
 <h3 align="center">My Stats:</h3>
