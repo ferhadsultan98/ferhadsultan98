@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhadsultan98" alt="ferhadsultan98" /></a> </p>
-
+![](https://komarev.com/ghpvc/?username=ferhadsultan98)
 - 📫 How to reach me **ferhadsultan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
