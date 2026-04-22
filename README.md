@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Salam+%F0%9F%91%8B,+M%C9%99n+F%C9%99rhadam;Frontend+Developer;Az%C9%99rbaycandan+Salamlar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Salam+%F0%9F%91%8B,+M%C9%99n+F%C9%99rhad;Frontend+Developer;Az%C9%99rbaycandan+Salamlar!" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ferhadsultan98&label=PROF%C4%B0L+BAXIS%C3%96&color=0e75b6&style=flat-square" alt="ferhadsultan98" />
