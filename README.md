@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Haqqımda
-- 👨‍💻 Mən Azərbaycandan olan ehtiraslı bir **Frontend Developer**əm.
+- 👨‍💻 Mən Azərbaycandan olan bir **Frontend Developer**.
 - 📫 Əlaqə: **ferhadsultan@gmail.com**
 
 ### 🤝 Mənimlə Əlaqə
