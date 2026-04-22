@@ -1,93 +1,52 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Farhad%20Sultan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20UI%20Craftsman%20%7C%20Azerbaijan%20🇦🇿&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20👋%2C%20I'm%20Farhad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=A%20passionate%20frontend%20developer%20from%20Azerbaijan%20🇦🇿&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Building+pixel-perfect+UIs+since+day+one;React+%7C+TypeScript+%7C+Next.js+enthusiast;Turning+Figma+dreams+into+real+interfaces;Clean+code%2C+clean+design%2C+always." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer+🚀;React+%7C+JavaScript+%7C+SASS+lover;Building+pixel-perfect+UIs;From+Baku%2C+Azerbaijan+🇦🇿" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ferhadsultan98&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="profile views" />
-  <a href="mailto:ferhadsultan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ferhadsultan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=ferhadsultan98&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👤 About Me
+- 📫 How to reach me **ferhadsultan@gmail.com**
 
-```typescript
-const farhad: Developer = {
-  name:       "Farhad Sultan",
-  location:   "Baku, Azerbaijan 🇦🇿",
-  role:       "Frontend Engineer",
-  focus:      ["React", "TypeScript", "UI/UX", "Performance"],
-  currentlyLearning: ["Next.js 15", "React Native", "System Design"],
-  passions:   ["Clean Architecture", "Pixel-perfect UIs", "DX"],
-  contact:    "ferhadsultan@gmail.com",
-  available:  true,
-};
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/ferhad.sultann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferhad.sultann" height="30" width="40" /></a>
+<a href="https://instagram.com/ferhad.sultann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferhad.sultann" height="30" width="40" /></a>
+<a href="https://codepen.io/farhadsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farhadsultan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farhadsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhadsultan" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### 📱 Other
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferhadsultan98&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ferhadsultan98" /></p>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferhadsultan98&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhadsultan98&theme=tokyonight&border_radius=10&hide_border=false" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferhadsultan98&show_icons=true&locale=en&theme=tokyonight" alt="ferhadsultan98" /></p>
 
-  <br/><br/>
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhadsultan98&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferhadsultan98&theme=tokyonight" alt="ferhadsultan98" /></p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferhadsultan98&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ferhadsultan98&theme=tokyonight&no-frame=false&margin-w=6&row=1" />
 </div>
 
 ---
@@ -100,34 +59,7 @@ const farhad: Developer = {
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
-
-  <a href="https://linkedin.com/in/farhadsultan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ferhad.sultann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://fb.com/ferhad.sultann" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/farhadsultan" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="mailto:ferhadsultan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-  <sub>⚡ Crafted with precision by <b>Farhad Sultan</b> — because details matter.</sub>
-
+  <sub>⚡ Built with ❤️ by <b>Farhad Sultan</b> — Baku, Azerbaijan 🇦🇿</sub>
 </div>
