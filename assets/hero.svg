@@ -1,0 +1,172 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Farhad Sultanov — Frontend Developer</title>
+  <desc id="desc">Animated developer profile header for Farhad Sultanov, Frontend Developer from Baku, Azerbaijan.</desc>
+
+  <style>
+    :root {
+      --bg: #f6f8fa;
+      --panel: #ffffff;
+      --text: #0d1117;
+      --muted: #57606a;
+      --line: #d0d7de;
+      --accent: #0969da;
+      --accent2: #8250df;
+      --chip: #f0f3f6;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --panel: #161b22;
+        --text: #f0f6fc;
+        --muted: #8b949e;
+        --line: #30363d;
+        --accent: #58a6ff;
+        --accent2: #bc8cff;
+        --chip: #21262d;
+      }
+    }
+
+    .bg { fill: var(--bg); }
+    .panel { fill: var(--panel); stroke: var(--line); }
+    .text { fill: var(--text); }
+    .muted { fill: var(--muted); }
+    .accent { fill: var(--accent); }
+    .accent-stroke { stroke: var(--accent); }
+    .accent2-stroke { stroke: var(--accent2); }
+    .line { stroke: var(--line); }
+    .chip { fill: var(--chip); stroke: var(--line); }
+
+    .name {
+      font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 800;
+      letter-spacing: -2.6px;
+    }
+
+    .mono {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    }
+
+    .orbit {
+      transform-origin: 930px 190px;
+      animation: orbit 16s linear infinite;
+    }
+
+    .orbit-rev {
+      transform-origin: 930px 190px;
+      animation: orbitReverse 23s linear infinite;
+    }
+
+    .pulse {
+      animation: pulse 2.8s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    .blink {
+      animation: blink 1.15s steps(1, end) infinite;
+    }
+
+    .scan {
+      animation: scan 7s ease-in-out infinite;
+    }
+
+    @keyframes orbit {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes orbitReverse {
+      to { transform: rotate(-360deg); }
+    }
+
+    @keyframes pulse {
+      0%,100% { opacity: .45; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes blink {
+      0%,48% { opacity: 1; }
+      49%,100% { opacity: 0; }
+    }
+
+    @keyframes scan {
+      0%,100% { transform: translateX(0); opacity: .08; }
+      50% { transform: translateX(185px); opacity: .24; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .orbit,.orbit-rev,.pulse,.blink,.scan { animation: none; }
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="390" rx="0"/>
+  <rect class="panel" x="1" y="1" width="1198" height="388" rx="18"/>
+
+  <!-- subtle top line -->
+  <line class="line" x1="36" y1="46" x2="1164" y2="46"/>
+  <circle cx="58" cy="24" r="4.5" fill="#ff5f57"/>
+  <circle cx="76" cy="24" r="4.5" fill="#febc2e"/>
+  <circle cx="94" cy="24" r="4.5" fill="#28c840"/>
+  <text class="muted mono" x="116" y="29" font-size="12">~/profile</text>
+
+  <!-- left -->
+  <circle class="pulse" cx="58" cy="82" r="5" fill="#2da44e"/>
+  <text class="muted mono" x="73" y="87" font-size="13" letter-spacing=".8">BUILDING IN PUBLIC</text>
+
+  <text class="text name" x="54" y="156" font-size="62">FARHAD</text>
+  <text class="text name" x="54" y="218" font-size="62">SULTANOV</text>
+
+  <text class="accent mono" x="58" y="254" font-size="15" font-weight="700">FRONTEND DEVELOPER</text>
+  <text class="muted mono" x="242" y="254" font-size="15">/ BAKU, AZERBAIJAN</text>
+
+  <text class="muted mono" x="58" y="291" font-size="14">I build clean interfaces, mobile experiences and open-source tools.</text>
+
+  <!-- chips -->
+  <g transform="translate(58 320)">
+    <rect class="chip" width="88" height="32" rx="8"/>
+    <text class="text mono" x="17" y="21" font-size="12">React</text>
+  </g>
+  <g transform="translate(156 320)">
+    <rect class="chip" width="118" height="32" rx="8"/>
+    <text class="text mono" x="16" y="21" font-size="12">React Native</text>
+  </g>
+  <g transform="translate(284 320)">
+    <rect class="chip" width="112" height="32" rx="8"/>
+    <text class="text mono" x="15" y="21" font-size="12">TypeScript</text>
+  </g>
+  <g transform="translate(406 320)">
+    <rect class="chip" width="118" height="32" rx="8"/>
+    <text class="text mono" x="15" y="21" font-size="12">Open Source</text>
+  </g>
+
+  <!-- right visual -->
+  <g>
+    <circle class="line" cx="930" cy="190" r="127" stroke-width="1"/>
+    <circle class="line" cx="930" cy="190" r="86" stroke-width="1"/>
+    <circle class="line" cx="930" cy="190" r="46" stroke-width="1"/>
+
+    <g class="orbit">
+      <circle cx="930" cy="63" r="7" fill="var(--accent)"/>
+      <circle cx="930" cy="317" r="4" fill="var(--accent2)"/>
+      <line class="accent-stroke" x1="930" y1="63" x2="930" y2="317" stroke-width="1" opacity=".2"/>
+    </g>
+
+    <g class="orbit-rev">
+      <circle cx="844" cy="190" r="5.5" fill="var(--accent2)"/>
+      <circle cx="1016" cy="190" r="4" fill="var(--accent)"/>
+    </g>
+
+    <path class="accent-stroke" d="M887 191C887 167.252 906.252 148 930 148C953.748 148 973 167.252 973 191" stroke-width="2.2" stroke-linecap="round" opacity=".9"/>
+    <path class="accent2-stroke" d="M973 191C973 214.748 953.748 234 930 234C906.252 234 887 214.748 887 191" stroke-width="2.2" stroke-linecap="round" opacity=".9"/>
+
+    <circle class="pulse" cx="930" cy="190" r="12" fill="var(--accent)"/>
+    <circle cx="930" cy="190" r="4" fill="var(--panel)"/>
+
+    <text class="muted mono" x="855" y="359" font-size="11">interface.engineering()</text>
+    <rect class="accent scan" x="842" y="345" width="2" height="22" rx="1"/>
+  </g>
+
+  <!-- prompt -->
+  <text class="muted mono" x="1040" y="82" font-size="12">status:</text>
+  <text class="accent mono" x="1091" y="82" font-size="12">shipping</text>
+  <rect class="accent blink" x="1153" y="70" width="7" height="14" rx="1"/>
+</svg>
